@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Opportunity</name>
+   <tag></tag>
+   <elementGuidId>3fc354b4-615d-4623-878d-099f3e12ebbe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.rounded-tl-\[var\(--radius-lg\)\]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-tl-[var(--radius-lg)] ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>d84ed4a9-69cc-43a5-a982-fa049be71d1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scope</name>
+      <type>Main</type>
+      <value>col</value>
+      <webElementGuid>502fbf89-03a5-442c-bac6-8611067926dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-overline sticky top-0 z-[var(--z-sticky)] border-b border-[var(--rule)] bg-[var(--surface-2)] text-left whitespace-nowrap px-[var(--space-4)] py-[var(--space-3)] rounded-tl-[var(--radius-lg)]</value>
+      <webElementGuid>de6f038c-7e31-45b6-b36c-fe33e169aa6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Opportunity</value>
+      <webElementGuid>242364f6-51f7-460f-8068-312caa1baefb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b86577833526c835b3b7ed34caf52fb0</value>
+      <webElementGuid>a4e4a33a-f176-4110-be97-1402b7c537d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-tl-[var(--radius-lg)] ')]</value>
+      <webElementGuid>05bf042b-0d2a-46a3-bdc1-13cf387e8f90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-tl-[var(--radius-lg)] ')]</value>
+      <webElementGuid>00931b14-ac29-4f49-bd9d-48c1bb8833bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Opportunity' or . = 'Opportunity')]</value>
+      <webElementGuid>c613b769-fc13-40f6-ade7-4f491ad8c97b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

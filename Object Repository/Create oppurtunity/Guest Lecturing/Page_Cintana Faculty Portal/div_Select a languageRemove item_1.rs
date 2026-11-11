@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select a languageRemove item_1</name>
+   <tag></tag>
+   <elementGuidId>ba683672-8783-4902-b9db-c56c7160138c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.formio-component-secondaryLanguage .choices__item.choices__item--selectable.choices__placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' choices__item ') and contains(concat(' ', normalize-space(@class), ' '), ' choices__item--selectable ') and contains(concat(' ', normalize-space(@class), ' '), ' choices__placeholder ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8d44a4e2-6a69-484f-a16b-2bc4f376278f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>choices__item choices__placeholder choices__item--selectable</value>
+      <webElementGuid>3bea0da4-8d4d-4609-89df-4831953b908e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>aa3b6c14-8386-42a4-b1a8-faf1b9e575ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f292da10-78e3-4e1e-9250-f7f164c1b6b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>5f8f8bb9-7b80-40a1-90d3-ff1729384ae8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select CityRemove item</value>
+      <webElementGuid>d2abf8bc-96df-48be-9e09-586d48417375</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b26b56b8767e832116613c47b171440a</value>
+      <webElementGuid>8e6e0141-dff2-4eb4-a573-64e331c55e5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' choices__item ') and contains(concat(' ', normalize-space(@class), ' '), ' choices__item--selectable ') and contains(concat(' ', normalize-space(@class), ' '), ' choices__placeholder ')]</value>
+      <webElementGuid>7f0d802a-b8ba-492e-b622-14b3d57db31b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' choices__item ') and contains(concat(' ', normalize-space(@class), ' '), ' choices__item--selectable ') and contains(concat(' ', normalize-space(@class), ' '), ' choices__placeholder ')]</value>
+      <webElementGuid>481cf559-9a9e-4f90-9ab0-49144bdded56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select CityRemove item' or . = 'Select CityRemove item')]</value>
+      <webElementGuid>46d71687-7928-4ecb-8258-7cfb64b7f0b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

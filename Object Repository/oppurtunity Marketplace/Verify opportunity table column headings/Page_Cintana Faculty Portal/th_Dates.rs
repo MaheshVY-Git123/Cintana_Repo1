@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Dates</name>
+   <tag></tag>
+   <elementGuidId>10e84fed-ff56-49e9-b1f3-6b64dae9b8f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>th.border-b.app-overline.whitespace-nowrap.z-\[var\(--z-sticky\)\].border-\[var\(--rule\)\].sticky.text-left[scope=&quot;col&quot;]:nth-child(4)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' border-b ') and contains(concat(' ', normalize-space(@class), ' '), ' app-overline ') and contains(concat(' ', normalize-space(@class), ' '), ' whitespace-nowrap ') and contains(concat(' ', normalize-space(@class), ' '), ' z-[var(--z-sticky)] ') and contains(concat(' ', normalize-space(@class), ' '), ' border-[var(--rule)] ') and contains(concat(' ', normalize-space(@class), ' '), ' sticky ') and contains(concat(' ', normalize-space(@class), ' '), ' text-left ') and (@scope = 'col') and (name() = 'th') and (position() = 4)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>8fd25df0-8097-4f7f-a1d6-a28af1184374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scope</name>
+      <type>Main</type>
+      <value>col</value>
+      <webElementGuid>1ad5b105-dcbc-466e-992a-0877d2f683c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-overline sticky top-0 z-[var(--z-sticky)] border-b border-[var(--rule)] bg-[var(--surface-2)] text-left whitespace-nowrap px-[var(--space-4)] py-[var(--space-3)]</value>
+      <webElementGuid>c7e40db9-c3ad-435e-a7e0-c34c7015d77c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dates</value>
+      <webElementGuid>79571525-5bc3-4cfd-aff0-627d50609b5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-4687bb14d69ef49fa65cd9daf22cdd54</value>
+      <webElementGuid>b8b59f29-aad3-47e8-a58d-745726d71a94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' border-b ') and contains(concat(' ', normalize-space(@class), ' '), ' app-overline ') and contains(concat(' ', normalize-space(@class), ' '), ' whitespace-nowrap ') and contains(concat(' ', normalize-space(@class), ' '), ' z-[var(--z-sticky)] ') and contains(concat(' ', normalize-space(@class), ' '), ' border-[var(--rule)] ') and contains(concat(' ', normalize-space(@class), ' '), ' sticky ') and contains(concat(' ', normalize-space(@class), ' '), ' text-left ') and (@scope = 'col') and (name() = 'th') and (position() = 4)]</value>
+      <webElementGuid>33e726ea-0f17-4ed9-af8f-0b328c38bfaf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' border-b ') and contains(concat(' ', normalize-space(@class), ' '), ' app-overline ') and contains(concat(' ', normalize-space(@class), ' '), ' whitespace-nowrap ') and contains(concat(' ', normalize-space(@class), ' '), ' z-[var(--z-sticky)] ') and contains(concat(' ', normalize-space(@class), ' '), ' border-[var(--rule)] ') and contains(concat(' ', normalize-space(@class), ' '), ' sticky ') and contains(concat(' ', normalize-space(@class), ' '), ' text-left ') and (@scope = 'col') and (name() = 'th') and (position() = 4)]</value>
+      <webElementGuid>2fd2ed7e-7113-4476-8e77-dc46aaab3822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Dates' or . = 'Dates')]</value>
+      <webElementGuid>4fe946a0-ddff-4d8d-91fa-fd3bf6811f21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

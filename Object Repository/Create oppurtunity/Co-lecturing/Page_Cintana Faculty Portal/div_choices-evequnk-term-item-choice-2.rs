@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_choices-evequnk-term-item-choice-2</name>
+   <tag></tag>
+   <elementGuidId>13536ddf-8702-4882-895a-a0ee0ecba325</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#evequnk-term-listbox [data-choice-selectable=&quot;&quot;]:nth-child(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class,'formio-component-term')]//*[@data-choice-selectable and normalize-space(.)='Term Spring 2026-1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e08ef604-852f-4c78-9b24-184822d4f51b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>choices--evequnk-term-item-choice-2</value>
+      <webElementGuid>99e8e86c-0ab1-4ab3-8949-786220511e7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>choices__item choices__item--choice choices__item--selectable</value>
+      <webElementGuid>47828d76-517e-4f6b-bcd8-05d20bb4f321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>ce069eb4-ed14-4f3f-84e2-ba896b6a8142</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>edba9269-35e7-441d-93aa-9253d0dd5695</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>c78055d8-e781-42f1-b874-d8fbc7fb16fe</value>
+      <webElementGuid>315efcdb-7b84-44db-b539-08dcfc994bec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>4d5c981d-5ac4-419a-88bd-896f7b29a40d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Term Spring 2026</value>
+      <webElementGuid>e9a674b8-44b1-4fb6-b6fc-07b016f59be4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-1457e5a1d4a74cafc26630a876d77663</value>
+      <webElementGuid>1a20ed58-059f-4c06-9cb1-ab661c8a017c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'evequnk-term-listbox']//*[(@data-choice-selectable = '') and (position() = 2)]</value>
+      <webElementGuid>aede83ec-e58c-47ac-b359-5379f47c6ea5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'evequnk-term-listbox']//*[(@data-choice-selectable = '') and (position() = 2)]</value>
+      <webElementGuid>9d21bff9-b60d-4d35-ab6a-f81b2e4e4fea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'choices--evequnk-term-item-choice-2' and (text() = 'Term Spring 2026' or . = 'Term Spring 2026')]</value>
+      <webElementGuid>73d14f0c-fe04-46cb-8511-d51d67af5ab7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OM_011 _Verify filtering by Knowledge area</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3c9a2457-fd65-49bc-9ca0-f42861c09a42</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_radix-_r_5b</name>
+   <tag></tag>
+   <elementGuidId>71f47328-8e15-4d01-94d1-a85c9738716c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.text-lg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-lg ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>c7df035b-8e2b-4012-8437-508707b57b48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>radix-_r_5b_</value>
+      <webElementGuid>13cfa3bb-f258-4191-9256-3806d29de94f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>dialog-title</value>
+      <webElementGuid>9796e08b-7370-4e75-a49b-1d078e8b399e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-lg leading-snug font-semibold wrap-anywhere pr-6</value>
+      <webElementGuid>55372f27-255a-478d-8dae-d8d8cb4646a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Express Interest</value>
+      <webElementGuid>ffc9e78a-da62-4c9d-b09e-ff466f3efb21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-5bfbc04373f8320256773764a4936131</value>
+      <webElementGuid>b0d1cd54-1afe-4e8c-afcb-50ac3527fdfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-lg ')]</value>
+      <webElementGuid>a8710707-138a-4c7d-af1e-1a006f2150d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-lg ')]</value>
+      <webElementGuid>4727d130-9ec0-4506-90db-28e0722c4dd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'radix-_r_5b_' and (text() = 'Express Interest' or . = 'Express Interest')]</value>
+      <webElementGuid>c0a4c7c5-8864-4f0d-8a65-448856ac24fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

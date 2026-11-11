@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select a termRemove item</name>
+   <tag></tag>
+   <elementGuidId>18a1da2e-7f75-41a1-a636-f1e5cd34beb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-labelledby=&quot;l-evequnk-term&quot;] [data-deletable=&quot;&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class,'formio-component-term')]//*[@role='combobox']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8988dae5-6b0e-4e0c-ae72-37f410721b44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>choices__item choices__placeholder choices__item--selectable</value>
+      <webElementGuid>00e2618b-97ac-4c21-a540-936e616f125a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ba3f21fa-9a9a-4c65-a2c0-438f95b54cf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b9e91d71-a524-43e1-9008-9578c236db66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>6991be96-4150-4c36-be94-8c8aec3d2d39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select a termRemove item</value>
+      <webElementGuid>44325614-8021-4eb9-b908-9aba73a9fbe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-8a33f4b31c51421a29de154e02d00bc6</value>
+      <webElementGuid>f8cd3727-b373-46a7-aa44-12eebfb6c890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'l-evequnk-term']//*[@data-deletable = '']</value>
+      <webElementGuid>09db6bd6-461a-495c-8306-13d60e9481d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'l-evequnk-term']//*[@data-deletable = '']</value>
+      <webElementGuid>58da05dd-2d85-4748-ac1d-00ae32bd365b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select a termRemove item' or . = 'Select a termRemove item')]</value>
+      <webElementGuid>a6237efb-7f14-43d5-a9a2-7fa0ae386ea2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

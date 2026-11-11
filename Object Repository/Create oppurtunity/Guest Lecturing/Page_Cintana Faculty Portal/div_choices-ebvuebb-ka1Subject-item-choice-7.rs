@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_choices-ebvuebb-ka1Subject-item-choice-7</name>
+   <tag></tag>
+   <elementGuidId>0ef425fa-4588-4433-8058-5cebb4a7fb06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ebvuebb .choices__item--choice:nth-child(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(concat(' ',normalize-space(@class),' '),' formio-component-ka1Subject ')]//*[@role='option' and @data-choice-selectable and normalize-space(.)='Engineering management']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3deaf3c6-c098-4f4d-82b5-644268cb914d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>choices--ebvuebb-ka1Subject-item-choice-7</value>
+      <webElementGuid>66f45042-8f15-44ea-a69a-8322ff548059</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>choices__item choices__item--choice choices__item--selectable</value>
+      <webElementGuid>6a78fd9e-4c68-49a2-8b12-8cddcbb9d777</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>39fffe08-dd20-4a9a-b9ba-edb4b98f28d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>7</value>
+      <webElementGuid>9b3bc685-b3c9-4f7f-8e83-97f7043c0b18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>0999de67-90b3-42b5-be98-38ee0f21afb6</value>
+      <webElementGuid>6dfe4770-8726-4e1b-aa29-04c400ae9246</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>7307de36-212f-4d8d-9ab2-4893705a04b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Engineering management</value>
+      <webElementGuid>a06413f4-1b53-49f5-8bd5-c3d275574a54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-ce580535a6a00c7373166a24dc1c8ab1</value>
+      <webElementGuid>471d79a1-f401-4623-b883-1b4a74fe2a52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'ebvuebb']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' choices__item--choice ') and (position() = 2)]</value>
+      <webElementGuid>d4beb997-30f3-4d5e-894d-72e332e55b66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'ebvuebb']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' choices__item--choice ') and (position() = 2)]</value>
+      <webElementGuid>3f9acdd0-18e2-4982-9aa2-e5ad5b95911e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'choices--ebvuebb-ka1Subject-item-choice-7' and (text() = 'Engineering management' or . = 'Engineering management')]</value>
+      <webElementGuid>4619ed88-c404-47b0-b6ca-9b625c8d77cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

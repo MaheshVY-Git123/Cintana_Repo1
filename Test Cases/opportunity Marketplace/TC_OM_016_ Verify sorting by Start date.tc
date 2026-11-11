@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select Start date sorting and verify that the first three opportunity rows are in ascending chronological order by comparing Row 1 with Row 2 and Row 2 with Row 3. Read and parse displayed dates at runtime so the testcase does not depend on fixed date values.</description>
+   <name>TC_OM_016_ Verify sorting by Start date</name>
+   <tag>GenAI</tag>
+   <comment>Fixed the repeated sort-trigger click that caused ElementClickInterceptedException. The testcase selects the Start date option, reads the current first three row dates, parses supported date formats (with or without year), and logs both adjacent row comparisons.</comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>318db833-d871-4d48-a1e6-ca6aae649c36</testCaseGuid>
+</TestCaseEntity>

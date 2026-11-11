@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OM_006 _ Verify filtering by Co-Lecturing opportunity type</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0d71bc3d-8a47-46d1-8ba2-fb6a063d6273</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>Required label associated with the Express Interest textarea.</description>
+   <name>label_Why youre a fit _(required)</name>
+   <tag></tag>
+   <elementGuidId>bec04b10-2d1d-4c6e-bab8-5dbd62e90f78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@role='dialog']//label[@for = //div[@role='dialog']//textarea[@data-slot='textarea']/@id]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>edc7ba12-bb32-459d-8676-2579502862c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>_r_50_</value>
+      <webElementGuid>2a923b9e-e7e6-490c-9239-a5beebd9211a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[length:var(--text-ui)] leading-[1.45] font-bold text-[var(--text-strong)]</value>
+      <webElementGuid>a1415a6c-8ca6-477c-875d-9638ac390e49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Why you're a fit *(required)</value>
+      <webElementGuid>0d371ce6-7461-4b86-a57f-2bf9ac2efb18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-d0157c686ed14407de7cc7008e22344d</value>
+      <webElementGuid>98806b1b-f5ef-491f-bf4b-e9f008512c05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>c6592197-14af-4f67-a1c6-4c879b5a0063</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>6b871ea7-9c1a-43de-9a7d-1d694e6a13cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = concat(&quot;Why you&quot; , &quot;'&quot; , &quot;re a fit *(required)&quot;) or . = concat(&quot;Why you&quot; , &quot;'&quot; , &quot;re a fit *(required)&quot;))]</value>
+      <webElementGuid>4e84e07d-9771-484a-907e-1dbee9902662</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

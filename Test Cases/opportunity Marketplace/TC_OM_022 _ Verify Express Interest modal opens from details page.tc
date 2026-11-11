@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OM_022 _ Verify Express Interest modal opens from details page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9f69ac94-393e-49d1-bfbc-3e614cc4a707</testCaseGuid>
+</TestCaseEntity>

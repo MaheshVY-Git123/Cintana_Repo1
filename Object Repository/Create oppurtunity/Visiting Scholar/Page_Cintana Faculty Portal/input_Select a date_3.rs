@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Select a date_3</name>
+   <tag></tag>
+   <elementGuidId>5ab2c029-63f8-4f57-9b62-79e25d0f9a3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.formio-component-avail1EndDate input[placeholder='Select a date'][tabindex='0']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'l-eiuxmqc-legend l-e9mwo0d-legend l-e6e5g2m-avail1EndDate']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3d084666-9d65-4e31-8ca4-1273c3ce8741</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-control input</value>
+      <webElementGuid>2d102441-1694-40f0-963a-ab36c5e9a05c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Select a date</value>
+      <webElementGuid>86dda697-2dee-4822-82d7-524cebf790eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ef478b97-1dd9-4468-a92c-520918a54f78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>4c92ae4f-a9b4-4eb1-93b5-79ed4fbca6a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>e6e5g2m-avail1EndDate</value>
+      <webElementGuid>8594da23-adb9-4221-b36a-665783aad517</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>l-eiuxmqc-legend l-e9mwo0d-legend l-e6e5g2m-avail1EndDate</value>
+      <webElementGuid>410d4049-beb3-4d72-9a5d-07a800fd1831</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>cf74122b-4ec8-4677-8e37-15b1d2c8726a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-8a013f0902a3d4606b05b13873b3178e</value>
+      <webElementGuid>c19a6c14-d662-4996-994e-d840eb758a04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'l-eiuxmqc-legend l-e9mwo0d-legend l-e6e5g2m-avail1EndDate']</value>
+      <webElementGuid>f315de1b-dc0f-4cce-a1ec-d6653237022c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'l-eiuxmqc-legend l-e9mwo0d-legend l-e6e5g2m-avail1EndDate']</value>
+      <webElementGuid>66219b54-98a9-4c00-93fa-0f1df77e0a70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Select a date' and @type = 'text' and @id = 'e6e5g2m-avail1EndDate']</value>
+      <webElementGuid>b57747c6-e5b9-41a3-884d-f51578332afe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Acknowledgement</name>
+   <tag></tag>
+   <elementGuidId>ad49665f-9fea-4f67-8ba4-b95f017e0107</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.page-item:nth-child(5) .page-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' page-item ') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' page-link ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>af6bdf7d-2b67-4f1b-b407-5739f1d97248</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>921cc9a3-f413-4c10-9fc2-54abd9a79627</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-index</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>ea7aff49-5dc3-4cfc-bd5b-940a8c688623</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>880e5369-3204-4a4c-982b-848c83c51572</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page-link</value>
+      <webElementGuid>aab0c339-98ae-4a73-bbb8-a54eb3f5009f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref</name>
+      <type>Main</type>
+      <value>wizard-e07h3pl-link</value>
+      <webElementGuid>bc3ccf75-56c9-4937-a571-59419f5bf1b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        Acknowledgement
+        
+      </value>
+      <webElementGuid>22a3b105-59b6-4589-b243-1ae677fe8683</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-becde19820aca9e56cbcad17f732fd38</value>
+      <webElementGuid>2fa00658-899f-44bb-85ea-715f65e1cf6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' page-item ') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' page-link ')]</value>
+      <webElementGuid>d2d00ded-14c8-427d-a145-a5208707413d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' page-item ') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' page-link ')]</value>
+      <webElementGuid>8dac2850-e003-44de-89bf-c0699b02d8ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+        Acknowledgement
+        
+      ' or . = '
+        Acknowledgement
+        
+      ')]</value>
+      <webElementGuid>d90874b8-cc96-4123-b57e-d9d18eb45c60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

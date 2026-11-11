@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>Express Interest reason field located within the dialog using stable data-slot and maxlength attributes.</description>
+   <name>textarea_I have taught this subject for six year</name>
+   <tag></tag>
+   <elementGuidId>a3832722-7985-4aa9-ac28-f94702b96c8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-describedby=&quot;_r_50_-helper&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@role='dialog']//textarea[@data-slot='textarea' and @maxlength='500']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>f1e4b0f5-ac2c-4d4e-b7e8-e398605ea94e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>a668b729-1ea5-4579-8b00-dcbd76b41e0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full min-w-0 rounded-[var(--radius-md)] border-[1px] border-[var(--rule-input)] bg-[var(--surface)] text-[length:var(--text-ui)] font-normal text-[var(--text)] placeholder:text-[var(--text-faint)] outline-none transition-colors duration-[var(--dur-fast)] focus-visible:border-[var(--brand)] aria-[invalid=true]:border-[var(--bad)] disabled:cursor-not-allowed disabled:bg-[var(--sunken)] disabled:text-[var(--text-faint)] data-[readonly=true]:border-transparent data-[readonly=true]:bg-transparent data-[readonly=true]:px-0 data-[readonly=true]:text-[var(--text-strong)] field-sizing-content min-h-24 resize-y px-[var(--space-3)] py-2.5 leading-[1.5]</value>
+      <webElementGuid>01ba4c9d-7015-4565-a8e4-53e595a25a8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>_r_50_</value>
+      <webElementGuid>37bba0ed-da78-4cf2-9f89-a0817a23f100</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>_r_50_-helper</value>
+      <webElementGuid>bb9e9df9-8eaf-420d-94ff-893eb5fe7f36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>b0179f10-5f0b-4267-94db-8e43fe9eb9fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>500</value>
+      <webElementGuid>cdba5121-a21a-4382-86f5-10186f7b0ab8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>I have taught this subject for six years and have run a joint cohort before.</value>
+      <webElementGuid>846f4827-417b-4572-b4d2-5dd4655ad88b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-7861cb8af6bb7c8b7f7ebda535852283</value>
+      <webElementGuid>7ca66246-6565-4c6f-a722-5b6cd2c72ea5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-describedby = '_r_50_-helper']</value>
+      <webElementGuid>95d9d5e0-5bb6-4f51-8ed0-252ba35de20f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-describedby = '_r_50_-helper']</value>
+      <webElementGuid>7bef3514-5f69-4e6c-8dab-78b5144e4dfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = '_r_50_' and @placeholder = 'I have taught this subject for six years and have run a joint cohort before.']</value>
+      <webElementGuid>a684fb38-182b-4742-9df2-3c66ef7f2246</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

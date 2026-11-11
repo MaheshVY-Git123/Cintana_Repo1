@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Select a date</name>
+   <tag></tag>
+   <elementGuidId>3eebd2f1-84ac-426e-be07-e7eb82143fac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.formio-component-earliestDateToBegin input.form-control.input[placeholder='Select a date']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@name='data[earliestDateToBegin]']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>23e5d7f4-1a03-4d10-a7f4-bc419bfd96db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-control input</value>
+      <webElementGuid>1c277274-9fd3-4955-bcbe-2a487b1f7bca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Select a date</value>
+      <webElementGuid>5c7d1e7e-2644-41dd-8494-bc0173f6c214</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>8658bebd-f8bd-4adb-a7ff-06c485b0417f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>355faf69-b410-400a-9bc2-1832ed708dec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ed5oz8j-earliestDateToBegin</value>
+      <webElementGuid>b9863fec-493f-4f81-ba42-96c6dd043553</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>l-enok1hh-legend l-ed5oz8j-earliestDateToBegin</value>
+      <webElementGuid>16c74390-8ef9-48c4-a110-9e554dd617a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5cf8dbd3-3506-4edb-bcac-bcf845823497</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-a04a5f09c014b23d7fdf26488884a247</value>
+      <webElementGuid>8c500bba-9a6e-4354-91df-11f79199a1b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'l-enok1hh-legend l-ed5oz8j-earliestDateToBegin']</value>
+      <webElementGuid>261da24c-2179-4ce5-a670-a4b860b1a80b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'l-enok1hh-legend l-ed5oz8j-earliestDateToBegin']</value>
+      <webElementGuid>6334c5d7-6aff-4df1-a61d-548ae02efcfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Select a date' and @type = 'text' and @id = 'ed5oz8j-earliestDateToBegin']</value>
+      <webElementGuid>e8bbc186-2712-44a8-8091-312ee7f1ac34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

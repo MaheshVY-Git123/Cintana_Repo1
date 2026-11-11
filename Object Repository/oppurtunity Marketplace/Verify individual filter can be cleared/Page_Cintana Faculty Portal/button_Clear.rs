@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Clear</name>
+   <tag></tag>
+   <elementGuidId>2464cb76-5e4a-4fe5-b96b-69cade1330ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.border-\[var\(--rule-soft\)\].text-\[length\:var\(--text-data\)\] .text-\[var\(--brand\)\].font-bold.bg-transparent[type=&quot;button&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' border-[var(--rule-soft)] ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[length:var(--text-data)] ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-[var(--brand)] ') and contains(concat(' ', normalize-space(@class), ' '), ' font-bold ') and contains(concat(' ', normalize-space(@class), ' '), ' bg-transparent ') and (@type = 'button')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e8c54766-92f1-488c-8e13-ab6d94ebdd48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>03dcb767-7fce-4c64-98a3-1b73b62b2dd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-0 bg-transparent p-0 font-bold text-[var(--brand)] hover:underline disabled:cursor-default disabled:text-[var(--text-faint)] disabled:no-underline</value>
+      <webElementGuid>05316b84-541e-4bc7-8bc4-ac7bd3f5de2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Clear</value>
+      <webElementGuid>b95ad2f3-f892-4996-a469-15ae0af22c07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-532da0074fafb349381b76873c52bb3b</value>
+      <webElementGuid>838de2d1-7e16-4cf3-afde-686c56fd3169</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' border-[var(--rule-soft)] ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[length:var(--text-data)] ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-[var(--brand)] ') and contains(concat(' ', normalize-space(@class), ' '), ' font-bold ') and contains(concat(' ', normalize-space(@class), ' '), ' bg-transparent ') and (@type = 'button')]</value>
+      <webElementGuid>6ed03d1d-d8e8-4adf-9a38-d0341946a44b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' border-[var(--rule-soft)] ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[length:var(--text-data)] ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-[var(--brand)] ') and contains(concat(' ', normalize-space(@class), ' '), ' font-bold ') and contains(concat(' ', normalize-space(@class), ' '), ' bg-transparent ') and (@type = 'button')]</value>
+      <webElementGuid>a7cb5363-677b-47b6-b186-a2fda90bb118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Clear' or . = 'Clear')]</value>
+      <webElementGuid>f3083408-17e9-468c-9916-f097c71758c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

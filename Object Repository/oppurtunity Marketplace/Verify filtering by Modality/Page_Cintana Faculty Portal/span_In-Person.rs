@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_In-Person</name>
+   <tag></tag>
+   <elementGuidId>e2d1be62-ea86-4a75-a081-da5f1849dc04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.bg-\[var\(--sunken\)\].text-\[var\(--text-muted\)\].text-\[length\:var\(--text-data\)\]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' bg-[var(--sunken)] ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[var(--text-muted)] ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[length:var(--text-data)] ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c6aaa318-d240-4259-9c97-78d68007a92c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center gap-1.5 rounded-full border-[1px] border-[var(--rule)] bg-[var(--sunken)] py-1 pr-1 pl-2.5 text-[length:var(--text-data)] leading-none text-[var(--text-muted)]</value>
+      <webElementGuid>af258565-e36b-4880-ba7e-3ff89e765cf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>In-Person</value>
+      <webElementGuid>8085b4a7-2c73-41be-a26b-77e66e9a38e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c31d9f788d94eeb8cf9fd453c766eb91</value>
+      <webElementGuid>96f35baf-18b2-4378-8008-2029108156f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' bg-[var(--sunken)] ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[var(--text-muted)] ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[length:var(--text-data)] ')]</value>
+      <webElementGuid>ff018d10-dcc8-4b7c-954d-d4004f0334c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' bg-[var(--sunken)] ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[var(--text-muted)] ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[length:var(--text-data)] ')]</value>
+      <webElementGuid>ea133023-d958-4342-b811-de409e216902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'In-Person' or . = 'In-Person')]</value>
+      <webElementGuid>3556040e-b167-4b64-a486-1479a4024c65</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

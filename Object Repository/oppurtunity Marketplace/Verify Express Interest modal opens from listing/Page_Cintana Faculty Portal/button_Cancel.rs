@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>Cancel action button scoped to the Express Interest dialog.</description>
+   <name>button_Cancel</name>
+   <tag></tag>
+   <elementGuidId>ba183fd9-4902-4580-a3ed-f94b599540e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.rounded-\[var\(--radius-md\)\].text-\[var\(--brand\)\]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@role='dialog']//button[normalize-space(.)='Cancel']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>711bbec9-d4b6-4a36-b1a8-1be892216f7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>831b3d41-05ac-4280-955e-ee70600aeebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center justify-center gap-2 whitespace-nowrap shrink-0 font-bold transition-colors outline-none disabled:pointer-events-none disabled:opacity-45 [&amp;_svg]:pointer-events-none [&amp;_svg]:shrink-0 [&amp;_svg:not([class*='size-'])]:size-5 bg-transparent text-[var(--brand)] hover:bg-[var(--brand-wash)] h-10 rounded-[var(--radius-md)] px-[var(--space-4)] text-[length:var(--text-ui)] pointer-coarse:h-11</value>
+      <webElementGuid>a2645674-b953-4282-ab4d-a545f1b24649</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancel</value>
+      <webElementGuid>8a621bec-27c0-4b44-88dd-ddfbab4877cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-c097bc1ae9d4dbff117d7f56b7638175</value>
+      <webElementGuid>02890f8e-fa69-4833-9287-f302109ee508</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-[var(--radius-md)] ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[var(--brand)] ')]</value>
+      <webElementGuid>f3ab5a5b-3f31-44a1-8cff-28353496906f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-[var(--radius-md)] ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[var(--brand)] ')]</value>
+      <webElementGuid>9a054068-7e74-4750-9657-7d1464bb73be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Cancel' or . = 'Cancel')]</value>
+      <webElementGuid>8d7e359d-881b-423f-8d50-f84dc0993751</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

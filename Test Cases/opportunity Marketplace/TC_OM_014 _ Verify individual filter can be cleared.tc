@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OM_014 _ Verify individual filter can be cleared</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f4e873c1-190e-43d0-954e-61724521c26b</testCaseGuid>
+</TestCaseEntity>

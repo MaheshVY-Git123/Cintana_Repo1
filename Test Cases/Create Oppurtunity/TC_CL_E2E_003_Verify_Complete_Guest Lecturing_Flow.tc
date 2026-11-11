@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CL_E2E_003_Verify_Complete_Guest Lecturing_Flow</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2eaf9e01-df14-4682-9fb4-e1f2bca627cb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OM_005_ Verify Filters panel opens successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d1d9537f-7088-41f6-8f8a-17ac064705cb</testCaseGuid>
+</TestCaseEntity>

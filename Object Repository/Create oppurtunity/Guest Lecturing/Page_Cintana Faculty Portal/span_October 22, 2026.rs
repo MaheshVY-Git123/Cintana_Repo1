@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_October 22, 2026</name>
+   <tag></tag>
+   <elementGuidId>c387d81f-09f1-4ff5-9281-912b3c2d0264</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.flatpickr-calendar.open [aria-label='October 22, 2026']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' arrowBottom ')]//*[@aria-label = 'October 22, 2026']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>507129a0-6d42-40c6-93e8-97120b5fdbd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flatpickr-day</value>
+      <webElementGuid>271d393c-bbcc-4ac5-9c01-da76219040d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>October 22, 2026</value>
+      <webElementGuid>09a2e6b5-2bbf-4847-837f-cc70678442b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>412bcc17-3098-4aa1-b0a0-4898697d7984</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>22</value>
+      <webElementGuid>cd1de9ee-7a48-48c3-b42c-7fd0883fdad2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-8e5ac344ef8a5a548989655580cd4b84</value>
+      <webElementGuid>e416c4fe-92c3-4c48-a4f6-09fec75f099c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' arrowBottom ')]//*[@aria-label = 'October 22, 2026']</value>
+      <webElementGuid>ade2f011-7475-471d-b812-03147f5e6f79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' arrowBottom ')]//*[@aria-label = 'October 22, 2026']</value>
+      <webElementGuid>ed5350c9-b856-4a2a-a54e-9576373b4be6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '22' or . = '22')]</value>
+      <webElementGuid>489699a3-9434-4a7f-bd84-d860ccf92311</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

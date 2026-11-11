@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Select a date_1</name>
+   <tag></tag>
+   <elementGuidId>442c0ede-b34a-43de-9cdf-f6707e8f18d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.formio-component-latestDateToEnd input[placeholder='Select a date'][tabindex='0']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'l-ejsa0ul-legend l-e047za-latestDateToEnd']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c155d06e-9592-4b44-a349-f8d47ace5bc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-control input</value>
+      <webElementGuid>9187c591-9f88-4680-bb72-553b908bcf31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Select a date</value>
+      <webElementGuid>84fdf6c5-c725-46e0-bc0a-d344e4ab1b48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>a3cf8a4a-beda-4d45-8293-c4a6ffac3683</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>b4c9dbfb-b8a8-4deb-9fdd-fb38d3b11c69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>e047za-latestDateToEnd</value>
+      <webElementGuid>695831fb-07be-45ad-823e-53ae78e7bf81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>l-ejsa0ul-legend l-e047za-latestDateToEnd</value>
+      <webElementGuid>6a179d21-c687-46c8-a22b-8315e7c4c878</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>75615e35-5138-48f3-86d3-6d55d579d634</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>bfa1ff2f-ba36-4259-b4e5-2439e4df6967</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-0ddcf2f532155e3ca08b7a7247723d92</value>
+      <webElementGuid>e0d5d152-a001-441a-b337-3fc8bf55d95c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'l-ejsa0ul-legend l-e047za-latestDateToEnd']</value>
+      <webElementGuid>4ac7b932-b468-4470-ada7-8719f48948cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'l-ejsa0ul-legend l-e047za-latestDateToEnd']</value>
+      <webElementGuid>5cab2484-84fa-4188-be60-9e75161df62e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Select a date' and @type = 'text' and @id = 'e047za-latestDateToEnd']</value>
+      <webElementGuid>abb7bc6f-3adf-4359-b5a2-04007b203f98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

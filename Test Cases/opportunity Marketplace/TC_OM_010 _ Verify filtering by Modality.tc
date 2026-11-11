@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OM_010 _ Verify filtering by Modality</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4e9ded6a-bc91-4146-875f-9ac9791233ca</testCaseGuid>
+</TestCaseEntity>

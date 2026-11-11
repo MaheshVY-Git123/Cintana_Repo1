@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_choices-eh3sw75-term-item-choice-2</name>
+   <tag></tag>
+   <elementGuidId>29450ee6-72c1-469e-9465-7455163af3e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.formio-component-term [data-choice-selectable=&quot;&quot;]:nth-child(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' formio-component-term ')]//*[(@data-choice-selectable = '') and (position() = 2)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2f6bef78-e7ad-4867-a917-ac0be42e5bdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>choices--eh3sw75-term-item-choice-2</value>
+      <webElementGuid>056a69f7-a493-4a08-812c-9f754ec72a75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>choices__item choices__item--choice choices__item--selectable</value>
+      <webElementGuid>beb35792-ceee-4cd7-bf3c-34118cb34ec7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>0c11961e-c902-46c4-9b01-2274c8f45d2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>da069237-8b85-457e-b1cd-60f90e3e4921</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>c78055d8-e781-42f1-b874-d8fbc7fb16fe</value>
+      <webElementGuid>4f291a90-f3cc-4eee-b834-1314c99a5f45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>39b379fb-1ed5-4bc1-8e57-34d1da56be05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Term Spring 2026-1</value>
+      <webElementGuid>97ca597f-7aad-4d87-be6f-f6350b9dc89b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-1890da47972d9f08ae28d5a652cba931</value>
+      <webElementGuid>9af833b6-add7-41ad-9b05-9f358ae05401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' formio-component-term ')]//*[(@data-choice-selectable = '') and (position() = 2)]</value>
+      <webElementGuid>ea9c534c-50c4-4067-a7d6-e8f4ed99717c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' formio-component-term ')]//*[(@data-choice-selectable = '') and (position() = 2)]</value>
+      <webElementGuid>1a4d93be-94ff-4ec5-adb8-6a9747263066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'choices--eh3sw75-term-item-choice-2' and (text() = 'Term Spring 2026-1' or . = 'Term Spring 2026-1')]</value>
+      <webElementGuid>03ffbcf9-d895-411d-823a-95b220f1b5f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

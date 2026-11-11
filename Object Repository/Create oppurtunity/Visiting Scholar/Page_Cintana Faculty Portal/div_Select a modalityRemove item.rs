@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select a modalityRemove item</name>
+   <tag></tag>
+   <elementGuidId>9b97bd31-d3da-47cc-9b49-2cb0bb6a8170</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.formio-component-modality .choices__item.choices__item--selectable.choices__placeholder[data-deletable]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'l-e3kg7pq-modality']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' choices__item--selectable ') and contains(concat(' ', normalize-space(@class), ' '), ' choices__item ') and contains(concat(' ', normalize-space(@class), ' '), ' choices__placeholder ') and (@data-deletable = '')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>051cdf69-b7c1-478a-879b-3ea94eba6af2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>choices__item choices__placeholder choices__item--selectable</value>
+      <webElementGuid>b240986d-d3a0-4b26-a9a3-fdb31a8f2b98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>b04734a8-27d2-4319-ab15-5286f70a4ab1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>844045b7-35e1-412d-8b9d-4d8fe908737b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>93d950c0-f917-4ab6-8185-e51bc9fed59e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select a modalityRemove item</value>
+      <webElementGuid>750fadb6-9741-4ce2-93fe-5a7b2fe50ad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-76821f9df70d656e3e72490689553b8a</value>
+      <webElementGuid>fe3cbed7-a436-43de-a0eb-b089f478fc63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'l-e3kg7pq-modality']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' choices__item--selectable ') and contains(concat(' ', normalize-space(@class), ' '), ' choices__item ') and contains(concat(' ', normalize-space(@class), ' '), ' choices__placeholder ') and (@data-deletable = '')]</value>
+      <webElementGuid>7dd55a9c-8b20-4e81-8660-5e06091b30e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'l-e3kg7pq-modality']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' choices__item--selectable ') and contains(concat(' ', normalize-space(@class), ' '), ' choices__item ') and contains(concat(' ', normalize-space(@class), ' '), ' choices__placeholder ') and (@data-deletable = '')]</value>
+      <webElementGuid>0355acce-2791-4ee4-876c-3db267ed2ed0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select a modalityRemove item' or . = 'Select a modalityRemove item')]</value>
+      <webElementGuid>1331c669-ca14-4c2a-b49f-ec852f4e65e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

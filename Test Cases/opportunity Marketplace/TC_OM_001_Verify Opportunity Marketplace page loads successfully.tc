@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OM_001_Verify Opportunity Marketplace page loads successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>62e934fc-1f06-4d8d-8f4f-711d3dc51b48</testCaseGuid>
+</TestCaseEntity>

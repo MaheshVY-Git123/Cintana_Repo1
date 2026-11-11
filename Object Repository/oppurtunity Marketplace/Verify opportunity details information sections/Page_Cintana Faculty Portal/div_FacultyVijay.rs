@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_FacultyVijay</name>
+   <tag></tag>
+   <elementGuidId>9145edb6-8295-472f-a6b4-5ddbf11a9391</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.xl\:sticky .rounded-\[var\(--radius-lg\)\].bg-\[var\(--surface\)\].h-full.border-\[var\(--rule\)\]:nth-child(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' xl:sticky ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-[var(--radius-lg)] ') and contains(concat(' ', normalize-space(@class), ' '), ' bg-[var(--surface)] ') and contains(concat(' ', normalize-space(@class), ' '), ' h-full ') and contains(concat(' ', normalize-space(@class), ' '), ' border-[var(--rule)] ') and (position() = 3)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e12b4c75-8a7e-40ae-a09b-478f023dcfb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>card</value>
+      <webElementGuid>8b51694f-bfe7-47a0-9d00-d8a7a568211e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative flex h-full min-w-0 flex-col gap-[var(--space-3)] rounded-[var(--radius-lg)] border-[1px] border-[var(--rule)] bg-[var(--surface)] p-[var(--space-4)] md:p-6</value>
+      <webElementGuid>ac10102d-65ab-4fe3-b9c0-b5fe9da6dd43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FacultyVijay</value>
+      <webElementGuid>ddb71dd6-ed5e-490b-b82d-2b3f17e39955</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-ad19e6bb035b98b866485508e57c4260</value>
+      <webElementGuid>245c69ec-7b49-4d77-9a0a-73bb51507582</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' xl:sticky ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-[var(--radius-lg)] ') and contains(concat(' ', normalize-space(@class), ' '), ' bg-[var(--surface)] ') and contains(concat(' ', normalize-space(@class), ' '), ' h-full ') and contains(concat(' ', normalize-space(@class), ' '), ' border-[var(--rule)] ') and (position() = 3)]</value>
+      <webElementGuid>72ade356-82c1-4a42-b6f6-5ae4bcff5e26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' xl:sticky ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-[var(--radius-lg)] ') and contains(concat(' ', normalize-space(@class), ' '), ' bg-[var(--surface)] ') and contains(concat(' ', normalize-space(@class), ' '), ' h-full ') and contains(concat(' ', normalize-space(@class), ' '), ' border-[var(--rule)] ') and (position() = 3)]</value>
+      <webElementGuid>86f3b87a-258f-4311-ac7e-a5ec0ed57b01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'FacultyVijay' or . = 'FacultyVijay')]</value>
+      <webElementGuid>98fd272a-7e9a-4033-a182-62892abe6ec3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

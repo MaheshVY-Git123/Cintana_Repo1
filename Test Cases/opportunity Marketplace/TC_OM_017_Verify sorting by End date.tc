@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OM_017_Verify sorting by End date</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7df2645e-cdec-4d72-a53b-f28ea71c66d1</testCaseGuid>
+</TestCaseEntity>

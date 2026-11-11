@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_October 28, 2026</name>
+   <tag></tag>
+   <elementGuidId>8c585ac3-6017-44bd-ac07-c8646c774253</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.flatpickr-calendar.open [aria-label='October 28, 2026']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' arrowTop ') and (position() = 13)]//*[@aria-label = 'October 28, 2026']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c9d1fd9e-b2b1-4a08-829a-fd865aa15c82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flatpickr-day today</value>
+      <webElementGuid>9aeb06f9-7cad-4799-8b04-386cfb2d8504</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>October 28, 2026</value>
+      <webElementGuid>954eed0a-04f8-4fd7-a9f5-5873012cf9ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-current</name>
+      <type>Main</type>
+      <value>date</value>
+      <webElementGuid>6380428e-6b43-46a8-80a6-c129c6534f96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>56ffe311-8a4e-48c5-8ac5-d43060cd02f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>28</value>
+      <webElementGuid>c499e669-22e2-44d3-9704-bb0f8e2ea7d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-843abab51bfa732db27671ca15b6348d</value>
+      <webElementGuid>9847cecc-7358-4a3f-af01-9a847a4534ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' arrowTop ') and (position() = 13)]//*[@aria-label = 'October 28, 2026']</value>
+      <webElementGuid>8063dfa8-5f4c-4419-981b-761ef2d43ff3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' arrowTop ') and (position() = 13)]//*[@aria-label = 'October 28, 2026']</value>
+      <webElementGuid>512f2561-a931-4c50-838c-8a10bff229e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '28' or . = '28')]</value>
+      <webElementGuid>2c3cd585-24bb-4ae2-86eb-b4782db39b5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

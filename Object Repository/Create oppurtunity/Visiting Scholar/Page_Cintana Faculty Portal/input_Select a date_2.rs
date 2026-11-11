@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Select a date_2</name>
+   <tag></tag>
+   <elementGuidId>4f6c06d6-3e6f-4272-be43-6720fd3ad0f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.formio-component-avail1StartDate input[placeholder='Select a date'][tabindex='0']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'l-eiuxmqc-legend l-e9mwo0d-legend l-e3wvyog-avail1StartDate']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b49c6f78-0f75-46c7-a964-0118538fb3c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-control input</value>
+      <webElementGuid>ca71f95d-4244-4c0f-8c9f-693c5301ab84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Select a date</value>
+      <webElementGuid>3b92a3f1-d5a1-4b79-be53-da2bfddeebb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ea234430-8c4f-44ea-a793-8fcd2ee9e633</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>cb14b859-a2c3-424d-9bb0-0a24f7d7fc8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>e3wvyog-avail1StartDate</value>
+      <webElementGuid>9cd7cab6-8546-4b92-87ad-7da8c336d227</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>l-eiuxmqc-legend l-e9mwo0d-legend l-e3wvyog-avail1StartDate</value>
+      <webElementGuid>05456fec-571a-45ac-b3a9-3c071b954ad8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>65a40c9e-fa9d-49ed-b490-d3b0e53450a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-70f40f36e5f8ab6743c3e2b287ebe7a2</value>
+      <webElementGuid>bcf8350b-81f9-4097-bbb7-b6d41f67556d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'l-eiuxmqc-legend l-e9mwo0d-legend l-e3wvyog-avail1StartDate']</value>
+      <webElementGuid>8a0542c5-c9ba-415f-a052-b1146a4025d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'l-eiuxmqc-legend l-e9mwo0d-legend l-e3wvyog-avail1StartDate']</value>
+      <webElementGuid>32c7470b-9360-4012-b523-73b5f42c9497</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Select a date' and @type = 'text' and @id = 'e3wvyog-avail1StartDate']</value>
+      <webElementGuid>3d0a332e-df19-41f0-a1cf-5c86e1cfef42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

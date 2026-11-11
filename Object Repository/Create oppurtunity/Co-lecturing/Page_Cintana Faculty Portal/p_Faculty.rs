@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Faculty</name>
+   <tag></tag>
+   <elementGuidId>da2e881f-ca1f-4eed-bc75-42f76ccd03a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.app-sidebar__profile-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' app-sidebar__profile-name ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>682eb9ca-ca45-4d24-87f2-3374e88d38ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-sidebar__profile-name</value>
+      <webElementGuid>3c4a9169-6a99-4775-8968-1ef800f87c68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Faculty</value>
+      <webElementGuid>7b7b62ae-c944-418b-8839-bbd78d997064</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b0d1bc7993cf4ecfed934640a293d20b</value>
+      <webElementGuid>e6574ab2-c5b6-4579-972a-bb75b77bf205</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' app-sidebar__profile-name ')]</value>
+      <webElementGuid>4e6472c6-3e24-4afc-8f94-e05a801f7ab3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' app-sidebar__profile-name ')]</value>
+      <webElementGuid>4b06a1d1-0b20-45c0-b49f-63f68972df0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Faculty' or . = 'Faculty')]</value>
+      <webElementGuid>0ab2a34f-cf3d-4f9b-85af-20c18ebf68d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

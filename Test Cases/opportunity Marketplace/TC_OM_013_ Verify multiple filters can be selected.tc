@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OM_013_ Verify multiple filters can be selected</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>67bb47a5-44f7-4e11-a8cc-377b7a26b03d</testCaseGuid>
+</TestCaseEntity>

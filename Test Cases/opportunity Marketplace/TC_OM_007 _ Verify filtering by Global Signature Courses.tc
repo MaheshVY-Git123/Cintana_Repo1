@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OM_007 _ Verify filtering by Global Signature Courses</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>35228401-96b1-41f8-be12-283b58e76a8a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Modality_ All modalities</name>
+   <tag></tag>
+   <elementGuidId>d78da544-7ea8-46cf-b7a6-097da5a8739d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-label=&quot;Modality\:\ All\ modalities&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-label = 'Modality: All modalities']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1f43a282-f473-4e4e-a242-0e0c16c746bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b59c1878-2b05-4208-8e9f-81783a948d69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>listbox</value>
+      <webElementGuid>5269f2ef-747d-484e-8a97-04bba6f6d7ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Modality: All modalities</value>
+      <webElementGuid>9b0eed06-73a2-46cb-b738-966f8e34a868</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full min-w-0 rounded-[var(--radius-md)] border-[1px] border-[var(--rule-input)] bg-[var(--surface)] text-[length:var(--text-ui)] font-normal text-[var(--text)] placeholder:text-[var(--text-faint)] outline-none transition-colors duration-[var(--dur-fast)] focus-visible:border-[var(--brand)] aria-[invalid=true]:border-[var(--bad)] disabled:cursor-not-allowed disabled:bg-[var(--sunken)] disabled:text-[var(--text-faint)] data-[readonly=true]:border-transparent data-[readonly=true]:bg-transparent data-[readonly=true]:px-0 data-[readonly=true]:text-[var(--text-strong)] h-10 px-[var(--space-3)] pointer-coarse:h-12 flex items-center justify-between gap-2 text-left</value>
+      <webElementGuid>3d77b4c8-2818-401c-b1b3-e81ceed89646</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>f6b1b0ba-ca8a-4bc0-a0fd-f0e6e3918c39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>radix-_r_57_</value>
+      <webElementGuid>57b02be0-d236-4b9b-bd12-4b815e88fa57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-state</name>
+      <type>Main</type>
+      <value>closed</value>
+      <webElementGuid>c46eb056-a7e7-4839-ad02-f524c729900e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>popover-trigger</value>
+      <webElementGuid>7f7ec768-6723-4fd6-b71e-139fea6a2af5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All modalities</value>
+      <webElementGuid>9510b6cb-7d9f-4b6a-bc77-4c030f32394e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-51de471e52e3c6af672d78630db7dcf0</value>
+      <webElementGuid>79ce5ab1-ce7a-4a08-9a41-0113af4ef1d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-label = 'Modality: All modalities']</value>
+      <webElementGuid>7cf8c2be-d5d1-44d2-85e5-e1790316b7dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-label = 'Modality: All modalities']</value>
+      <webElementGuid>00892a7d-80fb-449d-b400-04ed092341df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'All modalities' or . = 'All modalities')]</value>
+      <webElementGuid>13289078-78fa-49f1-a557-260a29dad3a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

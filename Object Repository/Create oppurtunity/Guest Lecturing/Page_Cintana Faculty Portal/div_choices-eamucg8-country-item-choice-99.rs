@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_choices-eamucg8-country-item-choice-99</name>
+   <tag></tag>
+   <elementGuidId>4c14fc73-94db-4002-8da7-ea167ec266f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.is-flipped [data-choice-selectable=&quot;&quot;]:nth-child(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(concat(' ',normalize-space(@class),' '),' formio-component-country ')]//*[@role='option' and @data-choice-selectable and normalize-space(.)='India']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b825b6a6-807e-4bd5-b19c-801fae34eca1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>choices--eamucg8-country-item-choice-2</value>
+      <webElementGuid>2021b9c8-dcaf-44d2-b556-ce19617da819</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>choices__item choices__item--choice choices__item--selectable</value>
+      <webElementGuid>a3cbde81-3c5f-4806-be3c-00356b810fe1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>11b03e68-ed9c-4b8d-a6ca-238f2fac8f9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>ec4a1036-a7a5-4257-a53b-c3e352c1930d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>8d5face8-e517-4cab-b0a9-d34a4eb27035</value>
+      <webElementGuid>7c85ebf3-7874-48e2-beef-cc9630b9dce8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>71954e82-ee80-47d1-9e41-f6e7c7149bb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aland Islands (Åland Islands)</value>
+      <webElementGuid>758045d9-6a24-441f-b009-11527ba6b6fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-f2566035dd2b709062af6d03b5ab64a4</value>
+      <webElementGuid>5ea0ae1e-61e6-483e-8afe-d2c5f0e5f022</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' is-flipped ')]//*[(@data-choice-selectable = '') and (position() = 2)]</value>
+      <webElementGuid>bcdb6d4b-07b8-481b-920d-5b34cb08d134</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' is-flipped ')]//*[(@data-choice-selectable = '') and (position() = 2)]</value>
+      <webElementGuid>d603663b-dd62-4dbc-809f-f3f203df1774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'choices--eamucg8-country-item-choice-2' and (text() = 'Aland Islands (Åland Islands)' or . = 'Aland Islands (Åland Islands)')]</value>
+      <webElementGuid>bb728f14-c999-4bc8-8cf7-d2c1fa6287c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

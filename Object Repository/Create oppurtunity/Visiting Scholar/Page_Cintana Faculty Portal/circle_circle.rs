@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>circle_circle</name>
+   <tag></tag>
+   <elementGuidId>fc803b32-a0fb-404d-adbf-98f2b11179b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.lucide.app-sidebar__profile-menu circle:nth-child(1)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' lucide ') and contains(concat(' ', normalize-space(@class), ' '), ' app-sidebar__profile-menu ')]//*[(name() = 'circle') and (position() = 1)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>circle</value>
+      <webElementGuid>78e5382e-c1ae-44ed-892b-22a35855fdf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cx</name>
+      <type>Main</type>
+      <value>12</value>
+      <webElementGuid>6291f5f3-7626-4d51-9e82-31d47c0772da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cy</name>
+      <type>Main</type>
+      <value>12</value>
+      <webElementGuid>c4525012-c5e5-4982-9690-b2ca0f5c9a6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>r</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>541a9262-b716-416f-a7d5-b911d8968eee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-8340abdc83c08b3bd1754b06c635f7f6</value>
+      <webElementGuid>bb3b87b7-137d-40e3-b39b-a3457ae81b9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' lucide ') and contains(concat(' ', normalize-space(@class), ' '), ' app-sidebar__profile-menu ')]//*[(name() = 'circle') and (position() = 1)]</value>
+      <webElementGuid>1a8bcad9-3dd7-4253-9c10-37ec08ad3072</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' lucide ') and contains(concat(' ', normalize-space(@class), ' '), ' app-sidebar__profile-menu ')]//*[(name() = 'circle') and (position() = 1)]</value>
+      <webElementGuid>9ca3b1fd-4ef4-435a-8fa6-57e996b30347</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_choices-emh1nk9-lecturingPlatform-item-choic</name>
+   <tag></tag>
+   <elementGuidId>124db82e-2cec-47b5-b27c-9defaec1bbb6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.formio-component-lecturingPlatform .choices__item--choice:nth-child(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(concat(' ',normalize-space(@class),' '),' formio-component-lecturingPlatform ')]//*[@data-choice-selectable and normalize-space(.)='Microsoft Teams']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>417172f0-7c99-4e99-bcf6-280beccd7ab7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>choices--emh1nk9-lecturingPlatform-item-choice-2</value>
+      <webElementGuid>90272c81-d5e2-4b1c-9bf4-ea02f3ab35a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>choices__item choices__item--choice choices__item--selectable</value>
+      <webElementGuid>5eb2e502-79d3-495a-94a9-d93a82eba0fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>a9b2083d-1489-4732-84b6-e2251a882759</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>9d51e6e1-5d61-451b-8221-bad9509facd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>03f682aa-44f7-45dc-9587-ac1ac55af378</value>
+      <webElementGuid>766d70df-b20b-49f2-a5ce-96aee3b59047</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>223d5d81-79c5-4a71-b8d5-17da6aa5c6e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Microsoft Teams</value>
+      <webElementGuid>82215dd0-5f23-469f-bf35-6dfad27df431</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-f18592e059c557ae07e29ef97614f2eb</value>
+      <webElementGuid>e51dde45-a935-4e1c-96e4-13e4eadecb88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' formio-component-lecturingPlatform ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' choices__item--choice ') and (position() = 2)]</value>
+      <webElementGuid>46468e06-2f24-406f-aad8-2efc42dedf35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' formio-component-lecturingPlatform ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' choices__item--choice ') and (position() = 2)]</value>
+      <webElementGuid>cf967742-b739-4634-b23b-b39e40ea68e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'choices--emh1nk9-lecturingPlatform-item-choice-2' and (text() = 'Microsoft Teams' or . = 'Microsoft Teams')]</value>
+      <webElementGuid>ba15792c-01da-48c6-b832-3aa4d1f59daa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

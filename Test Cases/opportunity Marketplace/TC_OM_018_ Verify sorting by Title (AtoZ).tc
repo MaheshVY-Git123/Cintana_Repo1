@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OM_018_ Verify sorting by Title (AtoZ)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>02c5c034-4cd9-4a69-bab6-b9149a6b591f</testCaseGuid>
+</TestCaseEntity>

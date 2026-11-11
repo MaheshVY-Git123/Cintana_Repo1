@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Faculty</name>
+   <tag></tag>
+   <elementGuidId>720957ed-a4bc-416a-b7aa-0912ffd9a3d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.xl\:sticky .rounded-\[var\(--radius-lg\)\].bg-\[var\(--surface\)\].h-full.border-\[var\(--rule\)\]:nth-child(3) [data-slot=&quot;card-title&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' xl:sticky ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-[var(--radius-lg)] ') and contains(concat(' ', normalize-space(@class), ' '), ' bg-[var(--surface)] ') and contains(concat(' ', normalize-space(@class), ' '), ' h-full ') and contains(concat(' ', normalize-space(@class), ' '), ' border-[var(--rule)] ') and (position() = 3)]//*[@data-slot = 'card-title']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>ed7baa8d-1dbe-417c-8d09-0a0106766c0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>card-title</value>
+      <webElementGuid>0c4a1311-31c2-4cd7-a624-a1609d3f61f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-0 font-bold text-balance flex items-center gap-[var(--space-2)] text-[length:var(--text-h2)] leading-[1.33] text-[var(--brand)]</value>
+      <webElementGuid>347fe0c6-75af-4fd0-86bc-1629efa6de40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Faculty</value>
+      <webElementGuid>b051001f-fc7b-4aab-a1bb-905b258af704</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-653c8427b4ee1c1dc9ab32829245c2be</value>
+      <webElementGuid>1a751650-44f7-4e40-bae7-8dcf92adc9e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' xl:sticky ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-[var(--radius-lg)] ') and contains(concat(' ', normalize-space(@class), ' '), ' bg-[var(--surface)] ') and contains(concat(' ', normalize-space(@class), ' '), ' h-full ') and contains(concat(' ', normalize-space(@class), ' '), ' border-[var(--rule)] ') and (position() = 3)]//*[@data-slot = 'card-title']</value>
+      <webElementGuid>982b3259-0b0d-4ec9-bbb5-3727c2a5edd3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' xl:sticky ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-[var(--radius-lg)] ') and contains(concat(' ', normalize-space(@class), ' '), ' bg-[var(--surface)] ') and contains(concat(' ', normalize-space(@class), ' '), ' h-full ') and contains(concat(' ', normalize-space(@class), ' '), ' border-[var(--rule)] ') and (position() = 3)]//*[@data-slot = 'card-title']</value>
+      <webElementGuid>378f3e32-de9e-412b-ad93-9713590b2e75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Faculty' or . = 'Faculty')]</value>
+      <webElementGuid>60c43a7f-35d2-4f37-a701-1a6a759658af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

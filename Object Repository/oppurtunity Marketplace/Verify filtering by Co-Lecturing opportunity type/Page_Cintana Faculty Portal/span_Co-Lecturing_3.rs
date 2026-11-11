@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Co-Lecturing_3</name>
+   <tag></tag>
+   <elementGuidId>ef33a38a-7b9e-4ede-ad0c-742ebac8263d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.bg-\[var\(--sunken\)\].text-\[var\(--text-muted\)\].rounded-full.text-\[length\:var\(--text-data\)\]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' bg-[var(--sunken)] ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[var(--text-muted)] ') and contains(concat(' ', normalize-space(@class), ' '), ' rounded-full ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[length:var(--text-data)] ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0ed45d2c-be73-4eb6-a035-242911ced50f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center gap-1.5 rounded-full border-[1px] border-[var(--rule)] bg-[var(--sunken)] py-1 pr-1 pl-2.5 text-[length:var(--text-data)] leading-none text-[var(--text-muted)]</value>
+      <webElementGuid>4582a07a-2b69-42e4-a6af-a9853295f8e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Co-Lecturing</value>
+      <webElementGuid>3822c701-aa36-492f-a9d2-779218c96865</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-319610afab17ede0a0f7606c5a72650c</value>
+      <webElementGuid>50c2b3ed-694f-4f4c-baad-a7ad2fbb4e8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' bg-[var(--sunken)] ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[var(--text-muted)] ') and contains(concat(' ', normalize-space(@class), ' '), ' rounded-full ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[length:var(--text-data)] ')]</value>
+      <webElementGuid>3d1af385-90d0-4592-b671-af5ee4534e77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' bg-[var(--sunken)] ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[var(--text-muted)] ') and contains(concat(' ', normalize-space(@class), ' '), ' rounded-full ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[length:var(--text-data)] ')]</value>
+      <webElementGuid>e25ddbc3-6bee-498b-b26e-22b7df0de5ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Co-Lecturing' or . = 'Co-Lecturing')]</value>
+      <webElementGuid>e8b8522c-2c25-428d-990e-5a84885605d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

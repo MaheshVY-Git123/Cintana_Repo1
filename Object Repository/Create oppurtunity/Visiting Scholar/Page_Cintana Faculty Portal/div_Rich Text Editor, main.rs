@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rich Text Editor, main</name>
+   <tag></tag>
+   <elementGuidId>b550d342-57a2-4593-a577-b0669a05dfbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-label=&quot;Rich\ Text\ Editor\,\ main&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-label = 'Rich Text Editor, main']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1038113f-8051-48cf-a843-cd287e606f5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ck-blurred ck ck-content ck-editor__editable ck-rounded-corners ck-editor__editable_inline</value>
+      <webElementGuid>e2ff78ba-980e-4c54-8ccd-60189f5d52c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>lang</name>
+      <type>Main</type>
+      <value>en</value>
+      <webElementGuid>1f4a7267-6fcf-4f8e-9b52-89c9d0258051</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>a06e4927-9746-4a47-b9ae-fac74cef1948</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>textbox</value>
+      <webElementGuid>c244a5c5-6917-4471-9d67-587621597e0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Rich Text Editor, main</value>
+      <webElementGuid>7dcb5ac6-d781-4e97-918c-0f9b8af04a2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>contenteditable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>bc8e28aa-9f2c-412b-83a7-d5413ad7c03d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-75a1835f4bdaf2fc33cd73a952180776</value>
+      <webElementGuid>a228a215-94ef-4101-9d50-6a133270e099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-label = 'Rich Text Editor, main']</value>
+      <webElementGuid>912b5fb2-2d92-4e75-9aab-e2df72b5ed64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-label = 'Rich Text Editor, main']</value>
+      <webElementGuid>99ae7ee0-30b9-4e03-a4bf-09e2e2c1906f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

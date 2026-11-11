@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Virtual</name>
+   <tag></tag>
+   <elementGuidId>f227200f-66b6-4fd3-8137-48ffa68c8df9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.bg-\[var\(--sunken\)\].text-\[var\(--text-muted\)\].rounded-full.text-\[length\:var\(--text-data\)\]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' bg-[var(--sunken)] ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[var(--text-muted)] ') and contains(concat(' ', normalize-space(@class), ' '), ' rounded-full ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[length:var(--text-data)] ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5b5cbb13-c2fc-4345-9537-7489b124dc43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center gap-1.5 rounded-full border-[1px] border-[var(--rule)] bg-[var(--sunken)] py-1 pr-1 pl-2.5 text-[length:var(--text-data)] leading-none text-[var(--text-muted)]</value>
+      <webElementGuid>bdb97a50-94c9-4848-98d6-966ab3e6b416</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Virtual</value>
+      <webElementGuid>017ec6ea-d77f-4d94-b566-fc0d3abe01ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-319610afab17ede0a0f7606c5a72650c</value>
+      <webElementGuid>54e79459-91a3-4255-bd41-6e1e153f4017</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' bg-[var(--sunken)] ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[var(--text-muted)] ') and contains(concat(' ', normalize-space(@class), ' '), ' rounded-full ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[length:var(--text-data)] ')]</value>
+      <webElementGuid>6d486107-0717-4bb1-90ac-4c0589e1680f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' bg-[var(--sunken)] ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[var(--text-muted)] ') and contains(concat(' ', normalize-space(@class), ' '), ' rounded-full ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[length:var(--text-data)] ')]</value>
+      <webElementGuid>da27be2f-9b72-4c27-aefc-2a8b6072e0e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Virtual' or . = 'Virtual')]</value>
+      <webElementGuid>2a4625ce-3afb-4477-b924-caf59dbb35d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

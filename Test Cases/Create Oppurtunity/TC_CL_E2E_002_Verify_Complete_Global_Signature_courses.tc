@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CL_E2E_002_Verify_Complete_Global_Signature_courses</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>78a6aced-9cb5-402c-83a6-f897c6f628b5</testCaseGuid>
+</TestCaseEntity>

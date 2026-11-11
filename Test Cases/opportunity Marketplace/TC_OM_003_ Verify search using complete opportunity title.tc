@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OM_003_ Verify search using complete opportunity title</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d0aeb986-68ac-424b-8eb6-b305eabd9791</testCaseGuid>
+</TestCaseEntity>

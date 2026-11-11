@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OM_008_Verify filtering by Organization</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ad54f19b-4947-46ea-9065-ee53b3183b0b</testCaseGuid>
+</TestCaseEntity>

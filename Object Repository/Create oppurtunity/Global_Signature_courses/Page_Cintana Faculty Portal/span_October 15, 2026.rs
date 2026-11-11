@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_October 15, 2026</name>
+   <tag></tag>
+   <elementGuidId>abc8f4dc-3653-4a59-a6cf-c3f0e30a85ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.arrowTop:nth-child(13) [aria-label=&quot;October\ 15\,\ 2026&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class,'flatpickr-calendar') and contains(@class,'open')]//*[@aria-label='October 15, 2026']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7904c72e-1573-4308-9d36-3a2639bd03e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flatpickr-day</value>
+      <webElementGuid>f61f03f0-5f9b-464d-a506-3762cad5eeb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>October 15, 2026</value>
+      <webElementGuid>985b57aa-e2bb-45ee-a4a5-b408b12c5719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>a35b0c1e-698c-48a5-9f5e-ee166fe17c4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>15</value>
+      <webElementGuid>4ec6e0e3-1236-4c5d-aaa1-7d5382a4e360</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-87d4f5dfc28647b4846a9ce61c8c366c</value>
+      <webElementGuid>a50d7efe-c9cc-46bc-83b9-dc612fe6535a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' arrowTop ') and (position() = 13)]//*[@aria-label = 'October 15, 2026']</value>
+      <webElementGuid>ac9bc7ce-c4ea-4d19-9ec8-f5cb468114ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' arrowTop ') and (position() = 13)]//*[@aria-label = 'October 15, 2026']</value>
+      <webElementGuid>7aed38f4-9188-4dd2-8372-8d6cd73a60c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '15' or . = '15')]</value>
+      <webElementGuid>5554b801-49bb-4826-957f-f2e23d48941d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

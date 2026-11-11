@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>Express Interest dialog title, located independently of Radix-generated IDs.</description>
+   <name>h2_radix-_r_p</name>
+   <tag></tag>
+   <elementGuidId>035fa708-c5c6-40bc-86cb-a05360d09cfa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#radix-_r_p_</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@role='dialog']//h2[@data-slot='dialog-title']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>8e7b93a1-8dff-472e-9979-8b4fb1e22881</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>radix-_r_p_</value>
+      <webElementGuid>b0654f1b-8ea2-4eed-9c62-cc7448189d54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>dialog-title</value>
+      <webElementGuid>53a503d0-c141-4f8e-99c5-e039ee25a39f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-lg leading-snug font-semibold wrap-anywhere pr-6</value>
+      <webElementGuid>f3a76d11-705e-4aba-a65c-f826d7f48d1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Express Interest</value>
+      <webElementGuid>e7b5101a-71e6-4d86-93d6-82d5bef16d86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-42e8906a75b9aba5174fc0e1011676ee</value>
+      <webElementGuid>367a74a6-b6f8-4e0d-8ab8-444f410c067c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'radix-_r_p_']</value>
+      <webElementGuid>7e182aae-6f8d-4f78-954d-a87d39e35ca2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'radix-_r_p_']</value>
+      <webElementGuid>cb0d8757-1f12-4d6f-9036-e634351e4540</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'radix-_r_p_' and (text() = 'Express Interest' or . = 'Express Interest')]</value>
+      <webElementGuid>9f511f44-9b56-4e67-b4d5-15ae0f9361f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

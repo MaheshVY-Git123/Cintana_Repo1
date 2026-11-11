@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Co-Lecturing_2</name>
+   <tag></tag>
+   <elementGuidId>9ea44b17-557f-4eaa-9efc-de1ef3290e57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.align-top.text-\[var\(--text\)\]:nth-child(2) [data-slot=&quot;tag&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' align-top ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[var(--text)] ') and (name() = 'td') and (position() = 2)]//*[@data-slot = 'tag']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>77e87f15-b26d-486e-aac8-71f2a5bbafa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>tag</value>
+      <webElementGuid>9da6c836-0266-48a9-ae27-2771d95e8e78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center rounded-[var(--radius-sm)] border-[1px] border-[var(--rule)] bg-[var(--sunken)] px-2 py-1 text-[length:var(--text-data)] leading-none text-[var(--text-muted)] whitespace-nowrap</value>
+      <webElementGuid>8aa7f87f-7b2e-4b9c-ac54-bdb94b84927c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Co-Lecturing</value>
+      <webElementGuid>9e401123-f2d3-449a-a875-a871cf8900b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-8b359a2eb9675af14824dae1995e279f</value>
+      <webElementGuid>18454060-35e2-4dfa-b02e-827d75021029</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' align-top ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[var(--text)] ') and (name() = 'td') and (position() = 2)]//*[@data-slot = 'tag']</value>
+      <webElementGuid>87b3e4f7-a79e-4c37-acc7-46aea32b290d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' align-top ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[var(--text)] ') and (name() = 'td') and (position() = 2)]//*[@data-slot = 'tag']</value>
+      <webElementGuid>d9abdc5d-494a-4b6d-a9f9-5a3ec705a650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Co-Lecturing' or . = 'Co-Lecturing')]</value>
+      <webElementGuid>605796fe-270a-4f33-bd12-ddd8b93a09fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

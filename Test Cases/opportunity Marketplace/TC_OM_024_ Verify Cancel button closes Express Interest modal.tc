@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open the Express Interest modal, enter a message, cancel it, and verify the modal is removed while the opportunity's Submit Interest button remains available.</description>
+   <name>TC_OM_024_ Verify Cancel button closes Express Interest modal</name>
+   <tag>GenAI</tag>
+   <comment>The Cancel action uses a runtime XPath scoped to the Express Interest dialog. The assertion now waits for the dialog to be removed from the DOM, which matches how the portal dismisses it.</comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fefb24ae-39ad-401a-a10d-d363a17411fd</testCaseGuid>
+</TestCaseEntity>

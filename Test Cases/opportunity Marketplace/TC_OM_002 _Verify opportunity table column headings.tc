@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OM_002 _Verify opportunity table column headings</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>68ece721-e867-4385-8085-6fbcfbfffabe</testCaseGuid>
+</TestCaseEntity>

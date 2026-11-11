@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Back</name>
+   <tag></tag>
+   <elementGuidId>8782b7cf-c6a6-430c-86de-d19b109fff50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.rounded-\[var\(--radius-md\)\].text-\[var\(--text-strong\)\]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-[var(--radius-md)] ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[var(--text-strong)] ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>163217fc-9af2-4aed-aec7-9554b69b9dc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b18de023-6e3b-4b85-a92e-0537c0bda2db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center justify-center gap-2 whitespace-nowrap shrink-0 font-bold transition-colors outline-none disabled:pointer-events-none disabled:opacity-45 [&amp;_svg]:pointer-events-none [&amp;_svg]:shrink-0 [&amp;_svg:not([class*='size-'])]:size-5 bg-[var(--surface)] text-[var(--text-strong)] border-[1px] border-[var(--line-300)] shadow-[var(--shadow-1)] hover:bg-[var(--sunken)] hover:border-[var(--line-strong)] h-10 rounded-[var(--radius-md)] px-[var(--space-4)] text-[length:var(--text-ui)] pointer-coarse:h-11</value>
+      <webElementGuid>09b7be96-8e0e-40bb-a54a-a4bcc6a58761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back</value>
+      <webElementGuid>99b6b05a-ae5f-4cd4-9229-30edc1e2eb1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-6e474f0bfb3df777826c411dbdd58071</value>
+      <webElementGuid>6fbf4ef6-9be1-46ea-9145-5a616dac69fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-[var(--radius-md)] ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[var(--text-strong)] ')]</value>
+      <webElementGuid>f987d9c7-c9e2-46cb-ba4e-357e06e8c6b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded-[var(--radius-md)] ') and contains(concat(' ', normalize-space(@class), ' '), ' text-[var(--text-strong)] ')]</value>
+      <webElementGuid>ae751217-357f-480c-9f7e-c6442bfe277d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Back' or . = 'Back')]</value>
+      <webElementGuid>dd019a5d-ab8c-49f1-af31-3abf348be968</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

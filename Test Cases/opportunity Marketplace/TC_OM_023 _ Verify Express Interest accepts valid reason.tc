@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Submit an Express Interest request with a valid reason and verify the listing confirms Interest Submitted.</description>
+   <name>TC_OM_023 _ Verify Express Interest accepts valid reason</name>
+   <tag>GenAI</tag>
+   <comment>Replaced the generated textarea helper-ID locator with stable dialog-scoped attributes, waits for the dialog and controls, and verifies the submitted confirmation.</comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>89a92593-eb24-4692-9260-bec3ca1d313b</testCaseGuid>
+</TestCaseEntity>

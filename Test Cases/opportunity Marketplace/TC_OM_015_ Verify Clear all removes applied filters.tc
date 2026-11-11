@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OM_015_ Verify Clear all removes applied filters</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>82b3131e-69cc-446e-b27c-6a502236f7f3</testCaseGuid>
+</TestCaseEntity>

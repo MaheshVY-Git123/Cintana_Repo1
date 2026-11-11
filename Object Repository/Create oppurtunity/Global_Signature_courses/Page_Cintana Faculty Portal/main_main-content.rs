@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>main_main-content</name>
+   <tag></tag>
+   <elementGuidId>660b6bec-97c1-451c-aa11-ce01d8c66195</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#main-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'main-content']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>main</value>
+      <webElementGuid>1dc7a26b-11a2-430b-b70c-66e4e92f57c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>app-main</value>
+      <webElementGuid>cfdf3265-5c4a-443e-9429-5c84c9b577c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>main-content</value>
+      <webElementGuid>f1096fe8-1041-4423-91d5-91b83d416e18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>c3a9eb4a-ff02-4ae7-81e8-97c255e06e7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Global Signature CoursesRun a mirror class or joint project with a partner campus...Start with Primary Info and press Next to save it, then add the course details.BackSubmitted for approvalYour Global Signature Courses opportunity has been submitted. An administrator reviews it before it appears on the marketplace. Until it is live on the marketplace, you can view it only under Your opportunities on the Create Opportunity page.Create another</value>
+      <webElementGuid>a2cd1a26-bc9e-45dd-8686-269ff7b94507</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-655b66cc693e7c78c58d4ebcea417928</value>
+      <webElementGuid>8bd706de-ed70-4d1f-9380-d6e3a093e482</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'main-content']</value>
+      <webElementGuid>914cf71f-fb01-4f26-af2b-fb0c427b8f45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'main-content']</value>
+      <webElementGuid>bf0c6f88-79c0-4046-ab9d-8c79cbbcf659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//main[@id = 'main-content' and (text() = 'Global Signature CoursesRun a mirror class or joint project with a partner campus...Start with Primary Info and press Next to save it, then add the course details.BackSubmitted for approvalYour Global Signature Courses opportunity has been submitted. An administrator reviews it before it appears on the marketplace. Until it is live on the marketplace, you can view it only under Your opportunities on the Create Opportunity page.Create another' or . = 'Global Signature CoursesRun a mirror class or joint project with a partner campus...Start with Primary Info and press Next to save it, then add the course details.BackSubmitted for approvalYour Global Signature Courses opportunity has been submitted. An administrator reviews it before it appears on the marketplace. Until it is live on the marketplace, you can view it only under Your opportunities on the Create Opportunity page.Create another')]</value>
+      <webElementGuid>5cb38fc2-6e68-405a-8961-0275d118e95d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

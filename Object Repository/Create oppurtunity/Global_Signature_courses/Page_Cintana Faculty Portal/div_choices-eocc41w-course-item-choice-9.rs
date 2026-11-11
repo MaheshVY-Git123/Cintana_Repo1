@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_choices-eocc41w-course-item-choice-9</name>
+   <tag></tag>
+   <elementGuidId>545d8452-5865-419d-b0b8-1ea61a023e36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.formio-component-course .choices__item--choice:nth-child(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(concat(' ', normalize-space(@class), ' '), ' formio-component-course ')]//*[@data-choice-selectable and normalize-space(.)='Education studies']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>40308171-e128-4ef1-bf77-d7678fd5dbf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>choices--eocc41w-course-item-choice-9</value>
+      <webElementGuid>a97a5031-43b9-46c2-800e-e722dccc029e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>choices__item choices__item--choice choices__item--selectable</value>
+      <webElementGuid>bae2d231-b40b-4519-bc41-f0aed5433899</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>d8f9e8f9-6811-4d36-94b8-97817a04d3fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>9</value>
+      <webElementGuid>80b132f0-a838-43d6-b1a9-69830dff67a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>ec9398fe-5828-447e-90a9-4336b417bddd</value>
+      <webElementGuid>8e881670-4ebc-4bc8-986c-af56fad18434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>09d363eb-2902-42aa-8c48-d849b45074ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Education studies</value>
+      <webElementGuid>e46cca80-bbad-4205-a27a-44848c93758b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-6d09692c659c04bfb252c6ab09f9e3ec</value>
+      <webElementGuid>041d2c9a-3e7a-46c9-b955-dd542a3afd87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' formio-component-course ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' choices__item--choice ') and (position() = 3)]</value>
+      <webElementGuid>0d72848b-9909-42e6-8843-d06c4e42634c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' formio-component-course ')]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' choices__item--choice ') and (position() = 3)]</value>
+      <webElementGuid>05d82fdb-c503-41ba-8cfe-24ad8082cb3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'choices--eocc41w-course-item-choice-9' and (text() = 'Education studies' or . = 'Education studies')]</value>
+      <webElementGuid>cdc08bf6-3b15-4e5f-9360-34f64aec3822</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

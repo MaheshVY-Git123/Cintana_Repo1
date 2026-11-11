@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OM_009_ Verify filtering by Term</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>edcd1e45-2de6-46e9-ac70-d3b40a8199a9</testCaseGuid>
+</TestCaseEntity>

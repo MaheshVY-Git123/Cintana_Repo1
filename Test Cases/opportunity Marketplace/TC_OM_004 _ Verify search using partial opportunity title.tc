@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OM_004 _ Verify search using partial opportunity title</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e67e32c7-af7b-485d-9f29-8b398f056163</testCaseGuid>
+</TestCaseEntity>

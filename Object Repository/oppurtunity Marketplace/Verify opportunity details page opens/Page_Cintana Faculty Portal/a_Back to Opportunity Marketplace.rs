@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Back to Opportunity Marketplace</name>
+   <tag></tag>
+   <elementGuidId>75d408d3-93fe-45a0-bfb1-e562e211f104</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[data-discover=&quot;true&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-discover = 'true']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c75e5a11-0347-4b01-99dd-a4140956b664</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2626da81-20b0-4f6e-b92c-713235ffd7a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-flex items-center justify-center gap-2 whitespace-nowrap shrink-0 font-bold transition-colors outline-none disabled:pointer-events-none disabled:opacity-45 [&amp;_svg]:pointer-events-none [&amp;_svg]:shrink-0 [&amp;_svg:not([class*='size-'])]:size-5 bg-[var(--surface)] text-[var(--text-strong)] border-[1px] border-[var(--line-300)] shadow-[var(--shadow-1)] hover:bg-[var(--sunken)] hover:border-[var(--line-strong)] h-10 rounded-[var(--radius-md)] px-[var(--space-4)] text-[length:var(--text-ui)] pointer-coarse:h-11</value>
+      <webElementGuid>f9cfff8a-a920-4599-926c-8bbb67e4a04b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/browse</value>
+      <webElementGuid>256d7ded-daa0-43cd-b92f-2aa3681fd4f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-discover</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>dd510c06-82be-4272-821d-585e2228ba07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back to Opportunity Marketplace</value>
+      <webElementGuid>cc475ed3-088b-48d7-9ebc-5c81467480d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-bc96de3fd97e9742624831e0cdc40265</value>
+      <webElementGuid>d9fc99fc-0c4c-4b63-b11e-deb04bb82b46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-discover = 'true']</value>
+      <webElementGuid>fdabe31c-0dcb-4c87-a150-3b7dfcd14021</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-discover = 'true']</value>
+      <webElementGuid>2528ffa4-afd5-41ea-8eeb-365abdc9b3f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/browse' and (text() = 'Back to Opportunity Marketplace' or . = 'Back to Opportunity Marketplace')]</value>
+      <webElementGuid>2b92c212-9524-42d5-b65f-f37765e75a87</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

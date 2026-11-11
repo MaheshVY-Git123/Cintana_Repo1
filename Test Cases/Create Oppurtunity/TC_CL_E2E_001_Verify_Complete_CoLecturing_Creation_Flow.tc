@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_CL_E2E_001_Verify_Complete_CoLecturing_Creation_Flow</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>046e3403-e0d7-42a8-9a1d-4f8e28b77392</testCaseGuid>
+</TestCaseEntity>

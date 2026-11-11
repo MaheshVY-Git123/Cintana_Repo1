@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OM_020 _ Verify opportunity details information sections</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>06fe60cc-98a0-4745-b938-d541a978e96b</testCaseGuid>
+</TestCaseEntity>

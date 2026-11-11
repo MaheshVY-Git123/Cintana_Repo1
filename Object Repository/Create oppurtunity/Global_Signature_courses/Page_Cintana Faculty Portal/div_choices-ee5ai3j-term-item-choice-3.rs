@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_choices-ee5ai3j-term-item-choice-3</name>
+   <tag></tag>
+   <elementGuidId>7af80210-c532-4cce-88a3-d1a8f6665c6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.is-flipped [data-choice-selectable=&quot;&quot;]:nth-child(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(concat(' ', normalize-space(@class), ' '), ' formio-component-term ')]//*[@data-choice-selectable and normalize-space(.)='Term Spring 2026-1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>84f20e83-da1a-4338-a8b1-c58c2b348e81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>choices--ee5ai3j-term-item-choice-3</value>
+      <webElementGuid>42ead64c-7851-4471-bb94-9e1ea4c8c33b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>choices__item choices__item--choice choices__item--selectable</value>
+      <webElementGuid>79d75108-4815-430c-8193-b2efe702c950</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>51349cf7-92ad-4a68-9521-06a59fa57f89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>2a49acc3-6bd9-4715-a4b8-608ed384387d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>c78055d8-e781-42f1-b874-d8fbc7fb16fe</value>
+      <webElementGuid>a8a7d39c-5913-4f5f-9fd7-9e92681b8d7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>730654d9-9a4a-4309-858f-dcc3bb392156</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Term Spring 2026-1</value>
+      <webElementGuid>6bd3fc73-389e-4bd5-a9c4-dcdc965294ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-1887934a41b55c6092fd1f88229d0bf2</value>
+      <webElementGuid>b7922e41-0fc1-419d-b394-99f10c402a49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' is-flipped ')]//*[(@data-choice-selectable = '') and (position() = 3)]</value>
+      <webElementGuid>81492e97-18cb-4293-896f-017cfd02d658</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' is-flipped ')]//*[(@data-choice-selectable = '') and (position() = 3)]</value>
+      <webElementGuid>96c7b041-9fed-40c3-941b-c9f70f1471b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'choices--ee5ai3j-term-item-choice-3' and (text() = 'Term Spring 2026-1' or . = 'Term Spring 2026-1')]</value>
+      <webElementGuid>52ece690-9a2d-47dc-944e-69a7e37e6b38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

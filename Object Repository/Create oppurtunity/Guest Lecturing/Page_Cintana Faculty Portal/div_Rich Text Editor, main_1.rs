@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rich Text Editor, main_1</name>
+   <tag></tag>
+   <elementGuidId>636aa630-465b-449f-9213-51a84b303bbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-labelledby=&quot;ck-editor__label_e1a8f14f329a47e52906a27f6943674ca&quot;] [aria-label=&quot;Rich\ Text\ Editor\,\ main&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-labelledby = 'ck-editor__label_e1a8f14f329a47e52906a27f6943674ca']//*[@aria-label = 'Rich Text Editor, main']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>47177dea-3822-4ff4-9b4b-a065086e91dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ck-blurred ck ck-content ck-editor__editable ck-rounded-corners ck-editor__editable_inline</value>
+      <webElementGuid>c0a3b964-f84e-46a4-b88a-8bd5ac30a2b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>lang</name>
+      <type>Main</type>
+      <value>en</value>
+      <webElementGuid>04869c13-4c6d-4c12-8343-90ca88a21bc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>d5e62a6d-20e3-4d32-8b0a-3a63b72b3126</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>textbox</value>
+      <webElementGuid>dc8310ca-0164-4cd9-8935-9db7ef706bb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Rich Text Editor, main</value>
+      <webElementGuid>fb3f3668-0b88-47c4-a12c-25463e873110</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>contenteditable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5ff55f27-08b1-4bcb-9b45-99941fd6f64a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-960d7a65fa2e0c3bbcb6552771500e6f</value>
+      <webElementGuid>adc43bce-fb9e-46da-b4da-87423afaea73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'ck-editor__label_e1a8f14f329a47e52906a27f6943674ca']//*[@aria-label = 'Rich Text Editor, main']</value>
+      <webElementGuid>3cf9fda9-a82e-4779-b9c0-8e532513fd31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-labelledby = 'ck-editor__label_e1a8f14f329a47e52906a27f6943674ca']//*[@aria-label = 'Rich Text Editor, main']</value>
+      <webElementGuid>e0275d20-8433-4e09-a6d0-b6cf0884b990</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

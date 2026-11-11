@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Open the Express Interest modal from the opportunity listing and verify its interest-related heading, required fit label, message field, Cancel button, and Submit Interest button.</description>
+   <name>TC_OM_021 _ Verify Express Interest modal opens from listing</name>
+   <tag>GenAI</tag>
+   <comment>Uses stable dialog-scoped locators and checks that the live heading refers to interest, accommodating the portal's current 'Submit Interest' modal title.</comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>55d1a183-e96e-4e35-8cdf-22bbe8a4a4be</testCaseGuid>
+</TestCaseEntity>

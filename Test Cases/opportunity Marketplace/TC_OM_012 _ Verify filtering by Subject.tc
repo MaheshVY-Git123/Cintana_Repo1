@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OM_012 _ Verify filtering by Subject</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4c04fd23-fbde-4740-bcbd-b83895212833</testCaseGuid>
+</TestCaseEntity>
